@@ -1,4 +1,4 @@
-#LGBM Classifier
+# LGBM Classifier
 This is a classifier for SpMMul based on LightGBM
 
 By loading 'model.txt', you will get access to a well-trained model
