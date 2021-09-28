@@ -1,7 +1,7 @@
 # LGBM Classifier
 This is a classifier for SpMMul based on LightGBM
 
-By loading 'model.txt', you will get access to a well-trained model
+By runing 'main.py', you will get access to a well-trained model 
 
 The input of the model is a vector with 7 entried, namely 'nnz', 'mat_size', 'dev_row','k', 'CUDA_cores', 'bandwidth' and 'L2_cache'.
 
